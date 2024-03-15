@@ -26,6 +26,16 @@
  * sloper, crimp, sloper, jug, sloper, jug, crimp 
  * 
   HAPPY CLIMBING!
+
+  STRETCH GOAL;
+  
+After calculating the total difficulty level of your climbing route, use the following difficulty ratings to assess the challenge:
+
+Mild (Easy): Total Difficulty Level <= 10
+
+Spicy (Moderate): 10 < Total Difficulty Level <= 20
+
+Arms on Fire (Challenging): Total Difficulty Level > 20
 */
 
 export function getDifficultyOfClimb(holds) {
