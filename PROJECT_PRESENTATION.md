@@ -28,3 +28,11 @@ Your task is to return the calculated difficulty level of the above route, or yo
 
 WHAT SCENARIOS CAN I PROVIDE TO TEST IF PEOPLE HAVE REACHED THOSE GOALS?
 
+-Test if the function works with just one hold at a time 
+-Test if the function works with one of each hold 
+-Test if the function works with a random combination of holds
+
+STRETCH GOALS
+
+-Return a difficulty rating based on the total score: mild (easy), spicy (moderate), arms on fire (challenging)
+-Extend the challenge to take in not only climbing holds but also height and gradient of climb to calculate overall difficulty
